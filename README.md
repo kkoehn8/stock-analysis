@@ -28,14 +28,14 @@ The analysis for 2017, as shown above, demonstrates that all stocks, except one,
 
 The analysis for 2018 is quite different. As the above image shows, only two stocks had a positive rate of return with the other ten all having a negative rate of return. 
 
-When doing a yearly comparison of the yearly data a couple of results appear. While the rate of return in 2018 for most of the stocks was negative, the Total Daily Volume for all stocks combined was higher in 2018 then in 2017.
+When doing a comparison of the yearly data a couple of results appear. While the rate of return in 2018 for most of the stocks was negative, the Total Daily Volume for all stocks combined was higher in 2018 then in 2017.
  - Total Daily Volume for all stocks combined (2017): 3,166,639,100
  - Total Daily Volume for all stocks combined (2018): 3,306,038,200
- There are two stocks that had a positive rate of return in both 2017 and 2018: ENPH and RUN. When reviewing the differences it is important to note that there was a large decline in the stock market in 2018 that affected most stocks and this can be seen in our stock analysis. Conducting the analysis with 2019 and doing a comparison of these stocks over three years would help with the analysis of a specific stock is performing over time.
+There are two stocks that had a positive rate of return in both 2017 and 2018: ENPH and RUN. When reviewing the differences it is important to note that there was a large decline in the stock market in 2018 that affected most stocks and this can be seen in our stock analysis. Conducting the analysis with 2019 data and doing a comparison of these stocks over three years would help with the analysis of a specific stock is performing over time.
 
 ### Assignment Results
 
-When conducting the analysis described above there was also an Assignment tasks that were also being completed. This was to analyze the differences between the original script and the refactored script. The refactored script was edited to make it more efficient to run. 
+When conducting the analysis described above there was also Assignment tasks that were being completed. This was to analyze the differences between the original script and the refactored script. The refactored script was edited to make it more efficient to run. 
 
 ![OriginalRunTime_2017](https://github.com/kkoehn8/stock-analysis/blob/main/GreenStocks_2017.PNG)
 ![OriginalRunTime_2018](https://github.com/kkoehn8/stock-analysis/blob/main/GreenStocks_2018.PNG)
@@ -45,9 +45,7 @@ The run time for the original code is shown above.
 ![FactoredRunTime_2017](https://github.com/kkoehn8/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 ![FactoredRunTime_2018](https://github.com/kkoehn8/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
-
-The run time for the refactored script is shown below.
-
+The run time for the refactored script is shown above.
 
 It can be seen that the refactored script runs much faster than the original script and this difference in speed would be a lot more evident with a larger data set. 
 
