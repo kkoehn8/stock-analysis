@@ -37,7 +37,13 @@ When doing a yearly comparison of the yearly data a couple of results appear. Wh
 
 When conducting the analysis described above there was also an Assignment tasks that were also being completed. This was to analyze the differences between the original script and the refactored script. The refactored script was edited to make it more efficient to run. 
 
+![OriginalRunTime_2017](GreenStocks_2017.png)
+![OriginalRunTime_2018](GreenStocks_2018.png)
+
 The run time for the original code is shown above.
+
+![FactoredRunTime_2017](/Resources/VBA_Challenge_2017.png)
+![FactoredRunTime_2018](/Resources/VBA_Challenge_2018.png)
 
 
 The run time for the refactored script is shown below.
