@@ -20,11 +20,11 @@ The analysis that was created allowed the user to see the total daily volume of 
 
 When conducting the stock analysis the conditional formatting for rate of return makes it obvious that there was a dramatic change between the rate of return for 2017 versus 2018. 
 
-![StockPerformance_2017](StockPerformance_2017.png)
+![StockPerformance_2017](https://github.com/kkoehn8/stock-analysis/blob/main/StockPerformance_2017.PNG)
 
 The analysis for 2017, as shown above, demonstrates that all stocks, except one, experienced a positive rate of return. Looking closer at these numbers shows that four of the twelve stocks experienced a rate of return of over 100%. 
 
-![StockPerformance_2018](StockPerformance_2018.png)
+![StockPerformance_2018](https://github.com/kkoehn8/stock-analysis/blob/main/StockPerformance_2018.PNG)
 
 The analysis for 2018 is quite different. As the above image shows, only two stocks had a positive rate of return with the other ten all having a negative rate of return. 
 
@@ -38,12 +38,12 @@ When doing a yearly comparison of the yearly data a couple of results appear. Wh
 When conducting the analysis described above there was also an Assignment tasks that were also being completed. This was to analyze the differences between the original script and the refactored script. The refactored script was edited to make it more efficient to run. 
 
 ![OriginalRunTime_2017](https://github.com/kkoehn8/stock-analysis/blob/main/GreenStocks_2017.PNG)
-![OriginalRunTime_2018](GreenStocks_2018.png)
+![OriginalRunTime_2018](https://github.com/kkoehn8/stock-analysis/blob/main/GreenStocks_2018.PNG)
 
 The run time for the original code is shown above.
 
-![FactoredRunTime_2017](/Resources/VBA_Challenge_2017.png)
-![FactoredRunTime_2018](/Resources/VBA_Challenge_2018.png)
+![FactoredRunTime_2017](https://github.com/kkoehn8/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![FactoredRunTime_2018](https://github.com/kkoehn8/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
 The run time for the refactored script is shown below.
