@@ -20,7 +20,11 @@ The analysis that was created allowed the user to see the total daily volume of 
 
 When conducting the stock analysis the conditional formatting for rate of return makes it obvious that there was a dramatic change between the rate of return for 2017 versus 2018. 
 
+![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
+
 The analysis for 2017, as shown above, demonstrates that all stocks, except one, experienced a positive rate of return. Looking closer at these numbers shows that four of the twelve stocks experienced a rate of return of over 100%. 
+
+![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
 
 The analysis for 2018 is quite different. As the above image shows, only two stocks had a positive rate of return with the other ten all having a negative rate of return. 
 
