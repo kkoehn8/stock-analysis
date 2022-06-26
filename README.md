@@ -20,7 +20,7 @@ The analysis that was created allowed the user to see the total daily volume of 
 
 When conducting the stock analysis the conditional formatting for rate of return makes it obvious that there was a dramatic change between the rate of return for 2017 versus 2018. 
 
-![StockPerformance_2017](StockPerformance_2017.png)
+![StockPerformance_2017](https://github.com/kkoehn8/stock-analysis/StockPerformance_2017.png)
 
 The analysis for 2017, as shown above, demonstrates that all stocks, except one, experienced a positive rate of return. Looking closer at these numbers shows that four of the twelve stocks experienced a rate of return of over 100%. 
 
